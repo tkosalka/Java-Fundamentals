@@ -26,5 +26,6 @@ class Example3 {
 
         System.out.println("var after division: " + var);
         System.out.println("x after division: " + x);
+        System.out.println("x after division by x: " + x / x);
     }
 }
